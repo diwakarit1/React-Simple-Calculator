@@ -32,7 +32,7 @@ function App() {
             Clear All
           </button>
           <button
-            className="highlight material-icons"
+            className="highlight"
             onClick={backspace}
             id="backspace"
           >
